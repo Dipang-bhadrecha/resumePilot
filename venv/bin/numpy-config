@@ -1,4 +1,6 @@
-#!/home/knowmadic/resumePilot/venv/bin/python3
+#!/bin/sh
+'''exec' "/home/knowmadic/repo Github/resumePilot/venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
